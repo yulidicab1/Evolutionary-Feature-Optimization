@@ -2,7 +2,7 @@
 
 This repository contains a compact academic Python project focused on regression with evolutionary feature optimization. The code builds transformed feature spaces from tabular datasets, searches for useful feature subsets with evolutionary strategies or a genetic algorithm, and compares the optimized pipeline against baseline regressors.
 
-The project has been kept intentionally close to the original semester work.
+The project documentation for the subject has been added to the repository.
 
 ## Objective
 
